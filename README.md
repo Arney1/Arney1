@@ -20,7 +20,7 @@
 
 ###
 
-<p align="left">I'm Arney from Indonesia. Tho you can also call me by the name in the LinkedIn profile, thats fine too<br><br>- Informatics engineering student<br>- I'm currently deep into cryptography & blockchain security (so basically, Solidity, SageMath, PyCryptodome, etc)<br>- Also messing around with whatever my coursework throws at me (current term include tools such as PyTorch, Neo4j, MongoDB, PowerDesigner, Raylib)<br>- I also make music sometimes, but finishing stuff is still a work in progress<br>- too many things to do...</p>
+<p align="left">I'm Arney from Indonesia. Tho you can also call me by the name in the LinkedIn profile, thats fine too<br><br>- Informatics engineering student<br>- I'm currently into cryptography & blockchain security (so basically, Solidity, SageMath, PyCryptodome, etc), sometimes take part in CTF comptetitions<br>- Also messing around with whatever my coursework throws at me (current term include tools such as PyTorch, Neo4j, MongoDB, PowerDesigner, Raylib)<br>- I also make music sometimes, but finishing stuff is still a work in progress<br>- too many things to do...</p>
 
 ###
 
