@@ -9,7 +9,7 @@
 I'm Arney from Indonesia. Tho you can also call me by the name in the LinkedIn profile, thats fine too
 
 * Informatics engineering student
-* I'm currently into cryptography & blockchain security, sometimes take part in CTF comptetitions. Writeups and ctf notes are in [garden](https://github.com/Arney1/garden)
+* I'm currently into cryptography & blockchain security, sometimes take part in CTF comptetitions. Writeups and ctf notes are in [garden](https://github.com/Arney1/garden). also, learning pwn/binex too right now 😭😭
 * Also messing around with whatever my coursework throws at me:
   * Data Modeling & Knowledge Representation: Neo4j, MongoDB, Protégé
   * Data Science & ML: PyTorch, Google Colab
