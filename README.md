@@ -8,15 +8,11 @@
 
 I'm Arney from Indonesia. Tho you can also call me by the name in the LinkedIn profile, thats fine too
 
-* Informatics engineering student
-* I'm currently into cryptography & blockchain security, sometimes take part in CTF comptetitions. Writeups and ctf notes are in [garden](https://github.com/Arney1/garden). also, learning pwn/binex too right now 😭😭
-* Also messing around with whatever my coursework throws at me:
-  * Data Modeling & Knowledge Representation: Neo4j, MongoDB, Protégé
-  * Data Science & ML: PyTorch, Google Colab
-  * Computer Graphics: Raylib, Roblox Studio, Blender
-  * Software Analysis & UI/UX: PowerDesigner, Figma
-* I also make music sometimes, but finishing stuff is still a work in progress
-* too many things to do...
+* '06
+* Applied Informatics Engineering Student @ Bandung State Polytechnic (POLBAN)
+* Into cryptogrpahy, blockchain, general cybersecurity, and music
+* ![garden](https://arney-garden.pages.dev/), my developer portfolio and digital garden. a growing collection of notes, projects, and things I’m figuring out.
+
 
 ### Language and tools im familiar with
 
