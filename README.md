@@ -11,7 +11,7 @@ I'm Arney from Indonesia. Tho you can also call me by the name in the LinkedIn p
 * '06
 * Applied Informatics Engineering Student @ Bandung State Polytechnic (POLBAN)
 * Into cryptogrpahy, blockchain, general cybersecurity, and music
-* ![garden](https://arney-garden.pages.dev/), my developer portfolio and digital garden. a growing collection of notes, projects, and things I’m figuring out.
+* [garden](https://arney-garden.pages.dev/), my developer portfolio and digital garden. a growing collection of notes, projects, and things I’m figuring out.
 
 
 ### Language and tools im familiar with
